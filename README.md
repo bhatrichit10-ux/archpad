@@ -7,11 +7,13 @@ The files of PCBs is inside the PCB folder, It contains a KiCad Project, a schem
 [Project File](PCB/richit.kicad_pro) <br>
 [Schematic Files](PCB/richit.kicad_sch)
 ### Images:
+
 ![PCB Image](images/image.png)
 ![Schematic Image](images/image2.png)
 ![3D PCB](images/image3.png)
 
 ## Case (CAD)
+![Complete](images/hackpad-full.png)
 ![Case Top](images/cad2.png)
 ![Case Bottom](images/cad1.png)
 ### Files: 
