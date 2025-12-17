@@ -17,7 +17,7 @@ The files of PCBs is inside the PCB folder, It contains a KiCad Project, a schem
 ![Case Top](images/cad2.png)
 ![Case Bottom](images/cad1.png)
 ### Files: 
-[Stp_TOP](production/Archpad_top.stp) <br>
+[Stp_TOP](production/Archpad_Top_latest.stp) <br>
 [Stp_Bottom_Case](production/Archpad_Latest.stp)
 ## Firmware
 The firmware is coded in KMK which is in python.<br>
