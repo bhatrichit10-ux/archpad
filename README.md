@@ -20,9 +20,13 @@ The files of PCBs is inside the PCB folder, It contains a KiCad Project, a schem
 [Stp_TOP](production/Archpad_Top_latest.stp) <br>
 [Stp_Bottom_Case](production/Archpad_Latest.stp)
 ## Firmware
-The firmware is coded in KMK which is in python.<br>
+The firmware is coded in ~~KMK~~ `adafruit_hid` which is in python.<br>
 I have taken help of ChatGPT in this part <br>
-[Main.py](firmware/KMK/main.py)
+[code.py](firmware/HID/code.py)
+## Building
+It took  me approx 9 hours to physically build this. Here is the final result
+![Video](IRL/Archpad.mp4)
+![Image](IRL/Archpad.jpeg)
 ## BOM
 - Seeed XIAO RP2040 ×1
 - MX-style mechanical switches ×6
@@ -34,7 +38,7 @@ I have taken help of ChatGPT in this part <br>
 - 3D printed case ×1
 ## Thanks HackClub
 Special thanks to HackClub and Blueprint for providing this opportunity. 
-Join them : [HackClub](https://hackclub.com)
+Join them : [HackClub](https://hackclub.com) <br>
 Blueprint : [Blueprint](https://blueprint.hackclub.com)
 ## Whats next?
 I am working on making another cool projects like this

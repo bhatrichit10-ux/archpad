@@ -1,5 +1,6 @@
 import board
-
+# VERY IMPORTANT FOR PEOPLE
+# I DID NOT USE THIS CODE!!!!! CHECK /firmware/HID/code.py
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.keypad import KeysScanner
 from kmk.keys import KC
